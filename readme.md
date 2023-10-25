@@ -111,3 +111,5 @@ The API responds with a JSON object containing tracking information. The main da
     }
 }
 ```
+
+https://docs.google.com/presentation/d/19j36dYN05sO6kUIttSm1fAyLjWu3mN8P/edit?usp=sharing&ouid=110166068982756037247&rtpof=true&sd=true
